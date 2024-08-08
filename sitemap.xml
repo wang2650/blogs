@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wang2650.github.io/posts/7/</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wang2650.github.io/posts/5/</loc>
     
     <lastmod>2024-08-08</lastmod>
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>http://wang2650.github.io/posts/2/</loc>
-    
-    <lastmod>2024-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wang2650.github.io/posts/4/</loc>
+    <loc>http://wang2650.github.io/posts/6/</loc>
     
     <lastmod>2024-08-08</lastmod>
     
