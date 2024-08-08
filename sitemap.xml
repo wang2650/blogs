@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wang2650.github.io/posts/3/</loc>
+    <loc>http://wang2650.github.io/posts/4/</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -12,6 +12,24 @@
   
   <url>
     <loc>http://wang2650.github.io/posts/2/</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wang2650.github.io/posts/3/</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wang2650.github.io/tags/index.html</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -40,7 +58,21 @@
 
   
   <url>
-    <loc>http://wang2650.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://wang2650.github.io/categories/c/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wang2650.github.io/categories/hexo/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wang2650.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
